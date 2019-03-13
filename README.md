@@ -6,6 +6,6 @@ Built in Python.
 
 Example
 
-from whoke.kewhois import *
+from kewhois import *
 
 whoIsKE().whois('foo.co.ke')
